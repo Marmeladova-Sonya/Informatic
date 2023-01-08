@@ -1,0 +1,22 @@
+<odd-week>
+    <thursday>
+        <inf_prac>
+            <time>10:00-11:30</time>
+            <room>2435/4 (бывш. 431в) ауд.</room>
+            <adress>Кронверкский пр., д.49, лит.А</adress>
+            <teacher>Болдырева Елена Александровна</teacher>
+        </inf_prac>
+        <inf_prac>
+            <time>11:40-13.10</time>
+            <room>2435/4 (бывш. 431в) ауд.</room>
+            <adress>Кронверкский пр., д.49, лит.А</adress>
+            <teacher>Болдырева Елена Александровна</teacher>
+        </inf_prac>
+	    <inf_leck>
+            <time>13:30-15:00</time>
+            <room>2435/4 (бывш. 431в) ауд.</room>
+            <adress>Кронверкский пр., д.49, лит.А</adress>
+            <teacher>Болдырева Елена Александровна</teacher>
+        </inf_leck>
+    </thursday>
+</odd-week>
